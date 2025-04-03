@@ -37,8 +37,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=
-/>
+![LinuxVM Creation ](https://github.com/user-attachments/assets/e7cb21a9-ea24-4342-b627-4afad90614c2)
+
+
 </p>
 <p>
 
