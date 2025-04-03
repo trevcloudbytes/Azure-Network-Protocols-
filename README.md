@@ -37,11 +37,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=![LinuxVM Creation ](https://github.com/user-attachments/assets/a2517f5d-2bc9-47f9-9d7d-7339521b6298)
+<img src=
 />
 </p>
 <p>
-After remote connectiong into the Windows VM, download the protocol analyzer called Wireshark. Ensure you download Version Windows x64. After configuring the settings, launch Wireshark and Powershell. Once launching Wireshark, you should be seeing network traffic coming from the Source 'Ethernet'. 
+
 </p>
 <br />
 
