@@ -15,7 +15,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDP, DNS, DHCP, ICMP)
 - Wireshark (Protocol Analyzer)
 - Powershell
 
@@ -27,15 +27,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Step 1: Setting Up
-- Step 2
-- Step 3
-- Step 4
+- Step 2: Observe DHCP Traffic
+- Step 3: Configure Firewall 
+- Step 4: Observe SSH Traffic
+- Step 5: Observe DNS Traffic
+- Step 6: Observe RDP Traffic 
 
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=![LinuxVM Creation ](https://github.com/user-attachments/assets/a2517f5d-2bc9-47f9-9d7d-7339521b6298)
+/>
 </p>
 <p>
 After remote connectiong into the Windows VM, download the protocol analyzer called Wireshark. Ensure you download Version Windows x64. After configuring the settings, launch Wireshark and Powershell. Once launching Wireshark, you should be seeing network traffic coming from the Source 'Ethernet'. 
