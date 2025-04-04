@@ -224,7 +224,7 @@ Step 4. Observe DHCP Traffic
 
 Step 6. Observe RDP Traffic
 
-- 1.On Wireshaak, from the windows VM, filter for 'tcp.port ==6689'. This port is used for Remote Desktop.
+- 1.On Wireshark, from the windows VM, filter for 'tcp.port ==6689'. This port is used for Remote Desktop.
 
 What you will notice is, there will be a constant stream of data being sent. Comparatively to SSH, as it only traces and encriptes every keystroke.
 
