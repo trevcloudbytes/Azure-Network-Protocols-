@@ -228,4 +228,13 @@ Step 6. Observe RDP Traffic
 
 What you will notice is, there will be a constant stream of data being sent. Comparatively to SSH, as it only traces and encriptes every keystroke.
 
+
+
+
+- What did I do?
+- Why did I do it?
+- What went wrong?
+- How did I fix it?
+
+
 <p>
